@@ -1,6 +1,6 @@
 # GeoReasoner-AI 🌍🤖
 
-Developed GeoAI Expert System, a Python/PyQt5-based intelligent desktop application for well data management, offline geological query handling, and ML-assisted analysis in petroleum and drilling workflows.
+Developed GeoReasoner-AI, a Python/PyQt5-based intelligent desktop application for well data management, offline geological query handling, and ML-assisted analysis in petroleum and drilling workflows.
 Designed the system with a scalable architecture for future ingestion of geological and drilling reports into SQLite/SQL Server, enabling optimized search, structured data storage, and intelligent reporting capabilities.
 
 
